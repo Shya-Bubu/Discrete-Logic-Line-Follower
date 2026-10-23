@@ -16,6 +16,11 @@
 
 All track sensing, logic synthesis, motor steering decisions, and pulse-width modulation (PWM) are evaluated continuously in hardware with zero firmware overhead and microsecond-level propagation delay.
 
+<div align="center">
+  <img src="images/demo_run.gif" alt="Team Sonic Competition Run" width="420" />
+  <p><em>Official competition run: 0:19.18 lap time on live timing board</em></p>
+</div>
+
 ---
 
 ## Competition Performance
@@ -90,9 +95,9 @@ The complete simulation project file is available in this repository:
 
 Before the final competition chassis, the design progressed through breadboard prototyping and early perfboard revisions:
 
-| Prototype Chassis ($V_{n-1}$) - Front View | Prototype Chassis ($V_{n-1}$) - Side Profile |
+| Prototype Chassis (V5) - Front View | Prototype Chassis (V5) - Side Profile |
 | :---: | :---: |
-| <img src="images/chassis_v_prev_front.png" width="340" alt="Prototype Chassis Front" /><br><em>Front view of pre-competition chassis ($V_{n-1}$) showing middle 3 sensor pins wired</em> | <img src="images/chassis_v_prev_side.png" width="340" alt="Prototype Chassis Side" /><br><em>Side profile showing stacked perfboard layout and motor driver</em> |
+| <img src="images/chassis_v5_front.png" width="340" alt="Prototype Chassis Front" /><br><em>Front view of prototype chassis (V5) showing middle 3 sensor pins wired</em> | <img src="images/chassis_v5_side.png" width="340" alt="Prototype Chassis Side" /><br><em>Side profile showing stacked perfboard layout and motor driver</em> |
 
 | Initial Breadboard Prototype | Early Flying-Fish Sensor Mount |
 | :---: | :---: |
