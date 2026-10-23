@@ -144,6 +144,14 @@ Manufacturing variances between the N20 gearmotors caused directional drift unde
 
 ---
 
+## Our Journey and Acknowledgments
+
+What started as a sprawling nest of jumper wires on an acrylic breadboard chassis evolved into a tuned, high-speed discrete logic line follower. Along the way, our team navigated Proteus SPICE non-convergence errors, solved TCRT5000 active-low polarity mismatches using spare inverter gates, eliminated motor RPM drift with independent dual-channel analog PWM, and finalized the chassis for competition day.
+
+A heartfelt thank you to all my teammates in **Team Sonic (Group 03)** for the late nights in the lab, the patience through tedious hardware fault isolation, and the shared drive that took this project from Karnaugh maps to an official 0:19.18 competition run!
+
+---
+
 ## Team Sonic (Group 03)
 
 - **G.A.K.S. Devindya** (E/22/073)
