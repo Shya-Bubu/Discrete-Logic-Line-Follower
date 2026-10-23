@@ -1,0 +1,13 @@
+# TeX source files and build artifacts
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+_backup_v1/
+
+# Additional builds (keep Journal.pdf)
+main.pdf
+
+# Large video files (demo_run.gif in images/ is tracked)
+*.mp4
